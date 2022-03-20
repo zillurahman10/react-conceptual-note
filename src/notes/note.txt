@@ -1,0 +1,16 @@
+1. What is the full meaning of npx?
+Ans : Node Package Execute
+
+2. How dose npx work?
+Ans : npx hocche je pakage ta diye kaj ta hobe oi ta install + execute dunota akshathe kore
+
+3. What is create-react-app?
+Ans : "create-react-app" hocche react er akta application toiri korar akta simple command line interface.
+
+4. What is the full meaning of JSX?
+Ans : JavaScript XML.
+
+5. What is JSX?
+Ans : JSK holo Html er moto and core and mordern JavaScript lekhajay erokom jayga.
+
+6. 
